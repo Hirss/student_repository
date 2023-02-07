@@ -1,5 +1,6 @@
 import java.util.Scanner;
-//Программа просит ввести 2 числа с клавиатуры и выводит их сумму
+//The program prompts you to enter 2 numbers from the tablet and display their number in the Java version
+// Made by Hrss for 10$. Contact adress:NotMeDidIt@gmail.com
 public class Main {
   public static void main(String[] args) 
   {
