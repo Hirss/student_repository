@@ -1,6 +1,6 @@
 import java.util.Scanner;
-//The program prompts you to enter 2 numbers from the tablet and display their number in the Java version
-// Made by Hrss for 10$. Contact adress:NotMeDidIt@gmail.com
+// The program prompts you to enter 2 numbers from the tablet and display their number in the Java version
+// Made by Hrsss. Price:10$. Contact adress:NotMeDidIt@gmail.com
 public class Main {
   public static void main(String[] args) 
   {
