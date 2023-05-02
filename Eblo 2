@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        LinkedList list = new LinkedList();
+
+        System.out.print("Enter the number of nodes: ");
+        int numNodes = scanner.nextInt();
+
+        for (int i = 0; i < numNodes; i++) {
+            System.out.print("Enter the value of node " + (i+1) + ": ");
+            int value = scanner.nextInt();
+            list.addNode(value);
+        }
+
+        list.printList();
+    }
+}
